@@ -1,7 +1,7 @@
 
 # Personal Portfolio Website
 
-website link :- file:///C:/Desktop/New%20folder/index.html
+website link :- [here](https://64996ea83fffef04752447c8--peppy-stardust-e74616.netlify.app/).
 
 Welcome to my personal portfolio website repository! This project showcases my education, skills, coding achievements, positions of responsibility, and projects. The website provides an overview of my background, experience, and technical expertise.
 

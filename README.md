@@ -1,7 +1,7 @@
 
 # Personal Portfolio Website
 
-website link :- [here](file:///C:/Desktop/New%20folder/index.html).
+website link :- [here](file:///C:/Desktop/New%20folder/index.html) 
 
 Welcome to my personal portfolio website repository! This project showcases my education, skills, coding achievements, positions of responsibility, and projects. The website provides an overview of my background, experience, and technical expertise.
 
